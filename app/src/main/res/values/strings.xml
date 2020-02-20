@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Online</string>
+    <string name="title_activity_login">login</string>
+</resources>
